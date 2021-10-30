@@ -7,3 +7,5 @@ Msgbox "hello world from dev1 into branch  -  dev1"
 'por el desarrollador 1 y los tengo actualizados en el Branch dev2 gracias al pull
 'Realizado el cual fue git pull origin07 dev1 
 'Nota: origin07 es el repositorio remoto deldesarrollador 1 el cuál había creado una nueva rama dev1
+
+'Cambio del dev 1 branch main
