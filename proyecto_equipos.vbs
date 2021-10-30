@@ -10,3 +10,5 @@ Msgbox "hello world from dev1 into branch  -  dev1"
 
 'Cambio del dev 1 branch main
 'tratando de cambiar el nombre de quien hace el commit
+
+Msgbox "se borró el usuario guardado en el administrador de credenciales de windows"
